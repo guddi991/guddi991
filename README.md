@@ -64,12 +64,12 @@ Here are some ideas to get you started:
 
 
    
-   ![Unnati's github stats](https://github-readme-stats.vercel.app/api?username=CodesbyUnnati&show_icons=true&hide_border=true)
+   ![Guddi's github stats](https://github-readme-stats.vercel.app/api?username=guddi991&show_icons=true&hide_border=true)
 
 <br>
  <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Unnati's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesbyUnnati&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Guddi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guddi991&langs_count=10&layout=compact#" /></a>
   <br/>
  
 
