@@ -18,7 +18,7 @@
 
   About me
 
-* ❤ I love Open Source
+* ❤ I like coding, novel, and learning new things ❤
 - 🌱 I’m currently learning Python 
 * 💻 I'm a self-taught Software Engineer
 * 🎓 I'm a Computer Science student
