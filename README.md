@@ -19,7 +19,7 @@
   About me
 
 * ❤ I like coding, novel, and learning new things ❤
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Django
 * 💻 I'm a self-taught Software Engineer
 * 🎓 I'm a Computer Science student
 * 🌐 You can see some of my projects on github
