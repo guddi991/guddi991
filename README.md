@@ -52,7 +52,7 @@
 <br>
  <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Guddi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guddi991&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/guddi991/github-readme-stats"><img alt="Guddi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guddi991&langs_count=10&layout=compact#" /></a>
   <br/>
  
 
